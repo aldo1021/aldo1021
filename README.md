@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldo1021
-- 👀 I’m interested in Java and Web programming
-- 🌱 I’m currently learning Java and Oracle database
+- 👀 I’m interested in Golang and Web programming
+- 🌱 I’m currently learning Golang and Angular
 - 💞️ I’m looking to collaborate on project to increase my expertise
 - 📫 How to reach me  - alvenavrn@yandex.ru
 
